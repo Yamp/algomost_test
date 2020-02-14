@@ -159,3 +159,4 @@ dmypy.json
 .pyre/
 
 .idea/sonarlint/
+.idea/
